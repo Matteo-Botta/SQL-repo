@@ -30,6 +30,17 @@ The AND and OR operators are used to filter records based on more than one condi
 - NOT - displays a record if the condition(s) is NOT TRUE
 <br />
 
+Tools for data ceaning:
+- DISTINCT
+- LENGTH
+- SUBSTR
+- TRIM
+- CAST
+- CONCAT
+- COALESCE
+
+<br />
+
 The following are the main commands/clause:
 -	DISTINCT - selects only unique values
 -	    SELECT 
